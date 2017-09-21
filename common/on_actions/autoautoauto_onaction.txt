@@ -1,0 +1,13 @@
+# Triggers when the game starts
+on_game_start = {
+	events = {
+		autoautoautoexplore.1
+	}
+}
+
+# A country has increased the level of a tech
+on_tech_increased = {
+	events = {
+		autoautoautoexplore.2
+	}
+}
