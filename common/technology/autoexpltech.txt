@@ -1,9 +1,8 @@
 tech_automated_exploration = {
 	area = physics
-	tier = 1
+	tier = 0
 	cost = 0
 	category = { computing }
-	weight = 0
 	start_tech = yes
 
 	#allow auto-explore on science ships
